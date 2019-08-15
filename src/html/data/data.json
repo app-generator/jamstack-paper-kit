@@ -1,0 +1,17 @@
+{
+    "copy"           : "AppSeed", 
+    "email"          : "support@appseed.us",
+    "design"         : "Paper Kit by Creative-Tim",
+
+    "seo_title"      : "JAMstack - Paper Kit design by Creative-Tim | AppSeed",
+    "seo_desc"       : "JAMstack app with Paper Kit design crafted by Creative-Tim.",
+
+    "product"        : "https://github.com/app-generator/jamstack-paper-kit", 
+    "github"         : "https://github.com/app-generator/jamstack-paper-kit",
+    "facebook"       : "https://facebook.com/webappseed",
+    "twitter"        : "https://twitter.com/webappseed",
+    "support"        : "https://appseed.us/support",
+    "discord"        : "https://discord.gg/fZC6hup",
+
+    "LAST_KEY" : "NA"
+}

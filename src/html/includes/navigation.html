@@ -1,0 +1,48 @@
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="300">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="/" rel="tooltip" title="JAMstack App" data-placement="bottom">
+          JAMstack Paper
+        </a>
+        <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-bar bar1"></span>
+          <span class="navbar-toggler-bar bar2"></span>
+          <span class="navbar-toggler-bar bar3"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse justify-content-end" id="navigation">
+        <ul class="navbar-nav">
+
+          <li class="nav-item">
+            <a href="/login.html" class="nav-link">Login</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/profile.html" class="nav-link">Profile</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/components.html" class="nav-link">Help</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Product Info" data-placement="bottom" href="{{ data.product }}">
+              <i class="fa fa-rocket"></i>
+              <p class="d-lg-none">Product</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Source code" data-placement="bottom" href="{{ data.guthub }}">
+              <i class="fa fa-github"></i>
+              <p class="d-lg-none">Github</p>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navbar -->
