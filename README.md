@@ -4,7 +4,7 @@ Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on t
 
 <br />
 
-![JAMstack Paper Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-paper-intro.gif?raw=true)
+![JAMstack Paper Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-paper-kit-intro.gif?raw=true)
 
 <br />
 
